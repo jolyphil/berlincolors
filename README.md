@@ -1,2 +1,2 @@
-# berlincolors
+# dahlem
 A Stata scheme

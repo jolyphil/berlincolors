@@ -1,4 +1,4 @@
-d berlincolors: A Stata scheme
+d dahlem: A Stata scheme
 d
 d Requires: Stata version 12.1+
 d
@@ -7,5 +7,5 @@ d
 d Authors: Philippe Joly
 d Contact: philippe.joly@posteo.net
 d
-f berlincolors.scheme
-f berlincolors.sthlp
+f dahlem.scheme
+f dahlem.sthlp

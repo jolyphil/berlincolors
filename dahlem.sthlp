@@ -2,6 +2,6 @@
 {* 15mar2021}
 {title: Title}
 
-{p 4 8}{cmd:berlincolors} - A Stata scheme
+{p 4 8}{cmd:dahlem} - A Stata scheme
 
 {title: Syntax}

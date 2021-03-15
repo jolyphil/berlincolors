@@ -2,7 +2,7 @@
 * Inspired by Bischof (2017)
 
 #include s2color
-label "minimal"
+label "dahlem"
 
 anglestyle vertical_tick horizontal
 
