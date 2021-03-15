@@ -1,6 +1,32 @@
 # dahlem
 A Stata scheme
 
+## Comparison
+
+### s2color (Stata's default theme)
+
+```
+twoway ///
+	(scatter price weight if foreign == 0)  ///
+	(scatter price weight if foreign == 1), ///
+	legend(order(1 "Domestic" 2 "Foreign")) ///
+	scheme(s2color)
+```
+
+![s2color](s2color.png)
+
+### dahlem
+
+```
+twoway ///
+	(scatter price weight if foreign == 0)  ///
+	(scatter price weight if foreign == 1), ///
+	legend(order(1 "Domestic" 2 "Foreign")) ///
+	scheme(dahlem)
+```
+
+![dahlem](dahlem.png)
+
 ## Instructions
 
 1. Install the scheme from GitHub:
