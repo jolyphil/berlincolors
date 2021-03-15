@@ -6,6 +6,7 @@ A Stata scheme
 ### s2color (Stata's default theme)
 
 ```
+sysuse auto, clear
 twoway ///
 	(scatter price weight if foreign == 0)  ///
 	(scatter price weight if foreign == 1), ///
@@ -18,6 +19,7 @@ twoway ///
 ### dahlem
 
 ```
+sysuse auto, clear
 twoway ///
 	(scatter price weight if foreign == 0)  ///
 	(scatter price weight if foreign == 1), ///
