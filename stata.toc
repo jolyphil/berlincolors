@@ -1,0 +1,12 @@
+v 3
+d berlincolors: A Stata scheme
+d
+d Requires: Stata version 12.1+
+d
+d Distribution-Date: 032021
+d
+d Authors: Philippe Joly
+d Contact: philippe.joly@posteo.net
+d
+d
+p berlincolors A Stata scheme
