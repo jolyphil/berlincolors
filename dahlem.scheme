@@ -1,5 +1,4 @@
-* Philippe Joly's minimal plot scheme
-* Inspired by Bischof (2017)
+* Dahlem Stata scheme
 
 #include s2color
 label "dahlem"
